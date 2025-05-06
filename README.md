@@ -10,7 +10,7 @@ This project creates:  - A VPC with public subnets - An Application Load Balance
 
 This project provides Infrastructure as Code (IaC) using Terraform to deploy a containerized application on AWS ECS (Elastic Container Service) with Fargate.
 
-## Project Overview
+## Project Overvieww
 
 This Terraform configuration creates a complete AWS infrastructure for running containerized applications, including:
 
